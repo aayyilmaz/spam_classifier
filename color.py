@@ -6,4 +6,4 @@ while i < len(color):
     i=i+1
 git remote set-url origin https://aayyilmaz@github.com/user/repo.git
 
-git remote set-url origin https://aayyilmaz@github.com/user/repo.git
+git remote set-url origin https://aayyilmaz@github.com/aayyilmaz/spam_classifier.git
